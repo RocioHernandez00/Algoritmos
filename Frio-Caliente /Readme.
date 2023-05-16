@@ -1,1 +1,12 @@
 # Algoritmos
+# Inicio
+### como convertir temperaturas 
+como conertir de fahrenheit a selsius
+* se resta 32
+* multiplicar por .5556 (5/9)
+* resultado 10 c
+### como convertir en grados selsius a fahreheint 
+* multiplicar por .5556 (5/9)
+* se agrega 32
+* resultado 86f
+*fin 
